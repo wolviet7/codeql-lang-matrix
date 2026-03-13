@@ -12,7 +12,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language: [ 'javascript', 'python' ]  # Add/remove languages here
+        language: [ 'javascript', 'python', 'java' ]  # Add/remove languages here
 
 
     permissions:
